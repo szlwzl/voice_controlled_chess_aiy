@@ -1,0 +1,9 @@
+Code originally from magpi magazine edition 58 - license appears to be as follows:
+
+. Except where otherwise noted, content in this magazine is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).
+
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Any additions/changes are under same license conditions
